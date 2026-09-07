@@ -9,7 +9,7 @@
       <body>
         This dataset originates from a <strong>telecommunications</strong> company serving customers across the United States, covering local &amp; international telephone services, data plans, and device protection programs. The company faces a significant level of <strong>customer churn</strong> and aims to understand the underlying patterns before designing retention strategies. <br>
         <br>
-        This analysis covers <strong>6,687 customers</strong> with <strong>30 attributes</strong> per customer — ranging from demographic data, contract types, payment methods, and usage patterns to specific reasons why churned customers decided to cancel. This report is compiled for the <strong>Customer Retention &amp; Operations</strong> team to identify high-risk segments and prioritize mitigation steps. <br>
+        This analysis covers <strong>6,687 customers</strong> with <strong>30 attributes</strong> per customer - ranging from demographic data, contract types, payment methods, and usage patterns to specific reasons why churned customers decided to cancel. This report is compiled for the <strong>Customer Retention &amp; Operations</strong> team to identify high-risk segments and prioritize mitigation steps. <br>
         <br>Key insights and recommendations focus on four core Northstar Metrics:
       </body>
       <h3>Northstar Metrics</h3>
@@ -57,7 +57,7 @@
     <h1 align="center">Dashboard Preview</h1>
     <div align="center">
       <h3>Interactive Executive Dashboard</h3>
-      <img width="1000" alt="Customer Churn Analysis Dashboard" src="assets/dashboard_screenshot.png" />
+      <img width="1000" alt="Customer Churn Analysis Dashboard" src="dashboard_screenshot.png" />
     </div>
     <td width="900" valign="top">
       <p><em>The interactive dashboard is built in Excel featuring slicers for Contract Type, Senior, Payment Method, and Gender.</em></p>
@@ -98,7 +98,7 @@
     <td width="333" valign="top">
       <h3>Usage &amp; Services</h3>
       <ul>
-        <li>Customers with unlimited data plans but usage &lt;5GB show a 34.7% churn rate — an indicator of overpaying for unused capacity.</li>
+        <li>Customers with unlimited data plans but usage &lt;5GB show a 34.7% churn rate - an indicator of overpaying for unused capacity.</li>
         <li>Churned customers average 2.40 customer service calls (~6.5x higher than retained customers), making it a strong early warning signal.</li>
       </ul>
     </td>
@@ -117,7 +117,7 @@
     <td width="1000">
       <h3 align="center">Geographic Churn Distribution (Highest &amp; Lowest States)</h3>
       <div align="center">
-        <img width="900" src="assets/churn_by_state.png" alt="Churn rate by state - top and bottom states" />
+        <img width="900" src="churn_by_state.png" alt="Churn rate by state - top and bottom states" />
       </div>
       <p><em>California stands out as a severe geographic outlier with a 63.2% churn rate, whereas states like District of Columbia (19.4%), Oklahoma (19.5%), North Carolina (20.6%), and Florida (21.3%) record the lowest churn rates.</em></p>
     </td>
@@ -149,9 +149,9 @@
   <tr>
     <td width="900">
       <ul>
-        <li><code>Churn_Analysis_Dashboard.xlsx</code> — Primary data source &amp; interactive Excel dashboard.</li>
-        <li><code>assets/</code> — Folder containing dashboard screenshots &amp; supporting analysis charts.</li>
-        <li><code>README.md</code> — Comprehensive project documentation report.</li>
+        <li><code>Churn_Analysis_Dashboard.xlsx</code> - Primary data source &amp; interactive Excel dashboard.</li>
+        <li><code>photos</code> - dashboard screenshots &amp; supporting analysis charts.</li>
+        <li><code>README.md</code> - Comprehensive project documentation report.</li>
       </ul>
     </td>
   </tr>
